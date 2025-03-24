@@ -1,0 +1,14 @@
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/bin/Debug/net8.0/APBD1
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/bin/Debug/net8.0/APBD1.deps.json
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/bin/Debug/net8.0/APBD1.runtimeconfig.json
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/bin/Debug/net8.0/APBD1.dll
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/bin/Debug/net8.0/APBD1.pdb
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.AssemblyInfoInputs.cache
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.AssemblyInfo.cs
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.csproj.CoreCompileInputs.cache
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.dll
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/refint/APBD1.dll
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.pdb
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/APBD1.genruntimeconfig.cache
+/Users/maciejgerwatowski/RiderProjects/APBD1/APBD1/obj/Debug/net8.0/ref/APBD1.dll
